@@ -15,4 +15,10 @@
 ---
 > ![4](./images/directives-start.jpg)
 
+## `services-start`
+---
+> ![5](./images/services-start.jpg)
 
+## `services-assignment-solution`
+---
+> ![6](./images/services-assignment-solution.jpg)
