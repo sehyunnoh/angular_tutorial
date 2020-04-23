@@ -11,4 +11,8 @@
 ---
 > ![2](./images/cmp-databinding-start.jpg)
 
+## `directives-start`
+---
+> ![4](./images/directives-start.jpg)
+
 
